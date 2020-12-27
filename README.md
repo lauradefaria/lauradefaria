@@ -41,6 +41,6 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
 ### 📫 Como me encontrar 📫
 
 <p align='center'>
-<a href="https://lattes.cnpq.br/7896264329763789"><img height="50" src="https://github.com/lauradefaria/lauradefaria/img/lattes.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://lattes.cnpq.br/7896264329763789"><img height="50" src="https://github.com/lauradefaria/lauradefaria//blob/master/img/lattes.png?raw=true"></a>
 <a href="mailto:lauradfma@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
 <a href="https://github.com/lauradefaria"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/github.png?raw=true"></a>
