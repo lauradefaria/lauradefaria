@@ -27,7 +27,7 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
 
 <details>
  <summary><strong>🚧 Produção de conteúdo 🚧</strong></summary>
-   - Faço participações em criações de conteúdo através do instagram e twitch da RAS UFPB: <a href="">Linketree RAS UFPB</a> <br/>
+   - Faço participações em criações de conteúdo através do instagram e twitch da RAS UFPB: <a href="linktr.ee/rasufpb">Linktree</a> <br/>
    - Projeto relacionados a metareciclagem (<b>Em construção</b>) <br/> <br/>
 </details>
 
@@ -41,6 +41,6 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
 ### 📫 Como me contatar  
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/mateus-antonio-robotica/"><img height="50" src="https://github.com/lauradefaria/lauradefaria/blob/master/img/lattes.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://lattes.cnpq.br/7896264329763789"><img height="50" src="https://github.com/lauradefaria/lauradefaria/blob/master/img/lattes.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:lauradfma@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
 <a href="https://github.com/lauradefaria"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/github.png?raw=true"></a>
