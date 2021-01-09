@@ -42,6 +42,6 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/laura-de-faria-maranhão-ayres-95578b203"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://lattes.cnpq.br/7896264329763789"><img height="50" src="https://github.com/lauradefaria/lauradefaria/blob/master/img/lattes.png?raw=true"></a>&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/7896264329763789"><img height="50" src="https://github.com/lauradefaria/lauradefaria/blob/master/img/lattes.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:lauradfma@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
 <a href="https://github.com/lauradefaria"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/github.png?raw=true"></a>
