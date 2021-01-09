@@ -21,7 +21,7 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
    - Possuo interesse na aplicação de conteúdos envolvendo circuitos lógicos (manipulando circuitos integrados), eletrônica (principalmente amplificadores e conversores), eletricidade e arquitetura de computadores<br/>
    - Tenho conhecimento em JavaScript e o básico de HTML (sempre procurando aprender mais rsrs) <br/>
    - Trabalho com pesquisa na área de Sistemas Embarcados, aplicando no desenvolvimento de tecnologias assistivas <br/>
-   - Pretendo aprimorar meus conhecimentos sobre Inteligênca Artificial
+   - Pretendo aprimorar meus conhecimentos sobre Inteligênca Artificial<br/>
    - Já perticipei de minicursos envolvendo desenvolvimento web, estudo sobre IA, análise de Fourier e introdução a banco de dados (Integrando MySQL + arduino e Cloud Firestore/Realtime Database + ESP8266)<br/>
 </details>
 
