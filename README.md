@@ -27,7 +27,7 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
 
 <details>
  <summary><strong>🚧 Produção de conteúdo 🚧</strong></summary>
-   - Faço participações em criações de conteúdo através do instagram e twitch da RAS UFPB: <a href="https:linktr.ee/rasufpb">Linktree</a> <br/> 
+   - Faço participações em criações de conteúdo através do instagram e twitch da RAS UFPB: <a href="https:linktr.ee/rasufpb">Linktree</a> &nbsp;&nbsp;<br/> 
    - Projeto relacionados a metareciclagem (<b>Em construção</b>) <br/> <br/>
 </details>
 
