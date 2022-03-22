@@ -13,7 +13,7 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
    - <b>(2019 - 2020)</b> Desenvolvimento de uma plataforma de baixo custo para análise de exercícios para pacientes com lesão cerebral e medular<br/>
    - <b>(2020 - 2021)</b> Participação como desenvolvedora (Back-end) do site para projeto 'Paraíba Humana e Inteligente' <br/> 
    - <b>(2021 - 2022)</b> Presidente do Capítulo de Robótica e Automação (RAS), pelo Ramo IEEE da UFPB <br/> 
-   - <b>(Presente)</b> Presidente do Ramo estudantil IEEE da UFPB <br/>
+   - <b>(2022 - Presente)</b> Presidente do Ramo estudantil IEEE da UFPB <br/>
 </details>
 
 <details>
