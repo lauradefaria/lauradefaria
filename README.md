@@ -5,12 +5,15 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
 <details>
  <summary><strong>🔭 Realizações 🔭</strong></summary>
 
-   - <b>(2018 - presente)</b> Ministro aulas de Arduino e Eletrônica básica no Capítulo de Robótica e Automação, pelo IEEE na UFPB <br/>
-   - <b>(2018 - presente)</b> Integrante do Laboratório de Sistemas Digitais - UFPB <br/>
+   - <b>(2018 - Presente)</b> Membro do Capítulo de Robótica e Automação (RAS), pelo Ramo IEEE da UFPB <br/> 
+   - <b>(2018 - Presente)</b> Ministro aulas de Arduino e Eletrônica básica no Capítulo de Robótica e Automação (RAS) <br/>
+   - <b>(2018 - 2020)</b> Integrante do Laboratório de Sistemas Digitais - UFPB <br/>
    - <b>(2019)</b> Monitora da disciplina de Circuitos Lógicos para o curso de Engenharia de Computação <br/>
    - <b>(2019)</b> Desenvolvimento de material de apoio para práticas envolvendo circuitos integrados <br/>
    - <b>(2019 - 2020)</b> Desenvolvimento de uma plataforma de baixo custo para análise de exercícios para pacientes com lesão cerebral e medular<br/>
-   - <b>(2020 - presente)</b> Participação como desenvolvedora (Back-end) do site para projeto 'Paraíba Humana e Inteligente' <br/> 
+   - <b>(2020 - 2021)</b> Participação como desenvolvedora (Back-end) do site para projeto 'Paraíba Humana e Inteligente' <br/> 
+   - <b>(2021 - 2022)</b> Presidente do Capítulo de Robótica e Automação (RAS), pelo Ramo IEEE da UFPB <br/> 
+   - <b>(Presente)</b> Presidente do Ramo estudantil IEEE da UFPB <br/>
 </details>
 
 <details>
@@ -18,11 +21,11 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
    - Experiência com C/C++ em projetos pessoais, graduação e projeto de pesquisa<br/>
    - Experiência com Python em projetos pessoais e graduação<br/>
    - Experiência com Assembly e verilog em projetos pessoais e graduação<br/>
-   - Possuo interesse na aplicação de conteúdos envolvendo circuitos lógicos (manipulando circuitos integrados), eletrônica (principalmente amplificadores e conversores), eletricidade e arquitetura de computadores<br/>
-   - Tenho conhecimento em JavaScript e o básico de HTML (sempre procurando aprender mais rsrs) <br/>
+   - Possuo interesse na aplicação de conteúdos envolvendo circuitos lógicos (manipulando circuitos integrados), eletrônica e arquitetura de computadores<br/>
+   - Tenho conhecimento básico em JavaScript <br/>
    - Trabalho com pesquisa na área de Sistemas Embarcados, aplicando no desenvolvimento de tecnologias assistivas <br/>
    - Pretendo aprimorar meus conhecimentos sobre Inteligênca Artificial<br/>
-   - Já perticipei de minicursos envolvendo desenvolvimento web, estudo sobre IA, análise de Fourier e introdução a banco de dados (Integrando MySQL + arduino e Cloud Firestore/Realtime Database + ESP8266)<br/>
+   - Já perticipei de minicursos envolvendo desenvolvimento web, análise de Fourier, introdução a banco de dados (Integrando MySQL + arduino e Cloud Firestore/Realtime Database + ESP8266) e microntroladores (PIC) <br/>
 </details>
 
 <details>
