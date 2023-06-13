@@ -7,7 +7,7 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
    - Membro voluntária do Capítulo de Robótica e Automação (RAS), pelo Ramo IEEE da UFPB <br/> 
    - Monitora da disciplina de Circuitos Lógicos para o curso de Engenharia de Computação <br/>
    - Pesquisadora no projeto "Desenvolvimento de uma plataforma de baixo custo para análise de exercícios para pacientes com lesão cerebral e medular"<br/>
-   - Participação como desenvolvedora do site para projeto 'Paraíba Humana e Inteligente' <br/> 
+   - Participação como desenvolvedora do site para projeto 'Paraíba Humana e Inteligente' <br/> <br/> 
 
  <summary><strong>Experiências</strong></summary>
    - Experiência com C/C++, Python, Assembly e verilog em projetos pessoais, graduação e projeto de pesquisa<br/>
