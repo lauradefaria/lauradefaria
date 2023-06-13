@@ -17,7 +17,7 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
    - Possuo conhecimento na aplicação de conteúdos envolvendo circuitos lógicos (manipulando circuitos integrados), eletrônica e arquitetura de computadores<br/>
    - Experiência com Machine Learning, desenvolvendo projetos pessoais e na graduação<br/>
    - Já participei de minicursos envolvendo desenvolvimento web, análise de Fourier, introdução a banco de dados (Integrando MySQL + arduino e Cloud Firestore/Realtime Database + ESP8266) e microntroladores (PIC) <br/>
-   - Ministro aulas de Arduino e Eletrônica básica no Capítulo de Robótica e Automação (RAS) desde 2018 <br/>
+   - Ministro aulas de Arduino e Eletrônica básica no Capítulo de Robótica e Automação (RAS) desde 2018 <br/><br/> 
 </details>
 
 <p align="center">
