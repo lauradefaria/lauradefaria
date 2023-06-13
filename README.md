@@ -1,9 +1,9 @@
-### Eai 👋
+### Olá! 👋
 
-Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíba, cursando Engenharia de Computação. Sou apaixonada por eletrônica, robótica e programação. Busco sempre descobrir coisas novas, aprimorar minhas habilidades e ajudar as pessoas de algum modo. Confere ai um pouco mais sobre mim.
+Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíba, cursando Engenharia de Computação. Tenho interesse em sistemas embarcados, aprendizagem de máquina e eletrônica. Busco sempre descobrir coisas novas e aprimorar minhas habilidades, possuindo um entusiasmo por inovação e empreendedorismo. Confere ai um pouco mais sobre mim.
 
 <details>
- <summary><strong>🔭 Realizações 🔭</strong></summary>
+ <summary><strong>Realizações</strong></summary>
 
    - <b>(2018 - Presente)</b> Membro do Capítulo de Robótica e Automação (RAS), pelo Ramo IEEE da UFPB <br/> 
    - <b>(2018 - Presente)</b> Ministro aulas de Arduino e Eletrônica básica no Capítulo de Robótica e Automação (RAS) <br/>
@@ -11,27 +11,21 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
    - <b>(2019)</b> Monitora da disciplina de Circuitos Lógicos para o curso de Engenharia de Computação <br/>
    - <b>(2019)</b> Desenvolvimento de material de apoio para práticas envolvendo circuitos integrados <br/>
    - <b>(2019 - 2020)</b> Desenvolvimento de uma plataforma de baixo custo para análise de exercícios para pacientes com lesão cerebral e medular<br/>
-   - <b>(2020 - 2021)</b> Participação como desenvolvedora (Back-end) do site para projeto 'Paraíba Humana e Inteligente' <br/> 
+   - <b>(2020 - 2021)</b> Participação como desenvolvedora do site para projeto 'Paraíba Humana e Inteligente' <br/> 
    - <b>(2021 - 2022)</b> Presidente do Capítulo de Robótica e Automação (RAS), pelo Ramo IEEE da UFPB <br/> 
-   - <b>(2022 - Presente)</b> Presidente do Ramo estudantil IEEE da UFPB <br/>
+   - <b>(2022)</b> Presidente do Ramo estudantil IEEE da UFPB <br/>
 </details>
 
 <details>
- <summary><strong>🤖 Experiências e interesses 🤖</strong></summary>
+ <summary><strong>Experiências</strong></summary>
    - Experiência com C/C++ em projetos pessoais, graduação e projeto de pesquisa<br/>
    - Experiência com Python em projetos pessoais e graduação<br/>
    - Experiência com Assembly e verilog em projetos pessoais e graduação<br/>
-   - Possuo interesse na aplicação de conteúdos envolvendo circuitos lógicos (manipulando circuitos integrados), eletrônica e arquitetura de computadores<br/>
+   - Possuo conhecimento na aplicação de conteúdos envolvendo circuitos lógicos (manipulando circuitos integrados), eletrônica e arquitetura de computadores<br/>
    - Tenho conhecimento básico em JavaScript <br/>
-   - Trabalho com pesquisa na área de Sistemas Embarcados, aplicando no desenvolvimento de tecnologias assistivas <br/>
-   - Pretendo aprimorar meus conhecimentos sobre Inteligênca Artificial<br/>
-   - Já perticipei de minicursos envolvendo desenvolvimento web, análise de Fourier, introdução a banco de dados (Integrando MySQL + arduino e Cloud Firestore/Realtime Database + ESP8266) e microntroladores (PIC) <br/>
-</details>
-
-<details>
- <summary><strong>🚧 Produção de conteúdo 🚧</strong></summary>
-   - Faço participações em criações de conteúdo através do instagram e twitch da RAS UFPB: <a href="https://instagram.com/rasufpb">Instagram</a><br/> 
-   - Projeto relacionados a metareciclagem (<b>Em construção</b>) <br/> <br/>
+   - Trabalhei com pesquisa na área de Sistemas Embarcados, aplicando no desenvolvimento de tecnologias assistivas <br/>
+   - Possuo conhecimento sobre Machine Learning, desenvolvendo projetos pessoais e na graduação<br/>
+   - Já participei de minicursos envolvendo desenvolvimento web, análise de Fourier, introdução a banco de dados (Integrando MySQL + arduino e Cloud Firestore/Realtime Database + ESP8266) e microntroladores (PIC) <br/>
 </details>
 
 <p align="center">
@@ -41,10 +35,3 @@ Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíb
 </p>
 
 ---
-### 📫 Como me encontrar 📫
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/laura-de-faria-maranhão-ayres-95578b203"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="http://lattes.cnpq.br/7896264329763789"><img height="50" src="https://github.com/lauradefaria/lauradefaria/blob/master/img/lattes.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:lauradfma@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
-<a href="https://github.com/lauradefaria"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/github.png?raw=true"></a>
