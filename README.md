@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíba, cursando Engenharia de Computação. Tenho interesse em sistemas embarcados, ciência de dados e engenharia de daodos. Busco sempre descobrir coisas novas e aprimorar minhas habilidades, possuindo um entusiasmo por inovação e empreendedorismo.
+Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíba, cursando Engenharia de Computação. Tenho interesse em sistemas embarcados, ciência de dados e engenharia de dados. Busco sempre descobrir coisas novas e aprimorar minhas habilidades, possuindo um entusiasmo por inovação e empreendedorismo.
 
  Confere ai um pouco mais sobre mim na [minha página](https://lauradefaria.github.io)!
 
