@@ -1,8 +1,8 @@
-### Olá! 👋
+### Hey! 👋
 
-Meu nome é Laura de Faria, atualmente estudo na Universidade Federal da Paraíba, cursando Engenharia de Computação. Tenho interesse em sistemas embarcados, ciência de dados e engenharia de dados. Busco sempre descobrir coisas novas e aprimorar minhas habilidades, possuindo um entusiasmo por inovação e empreendedorismo.
+My name is Laura de Faria, and I am currently studying Computer Engineering at the Federal University of Paraíba. I am interested in embedded systems, data science, and software engineering. I am always eager to discover new things and improve my skills, with a strong enthusiasm for innovation and entrepreneurship.
 
- Confere ai um pouco mais sobre mim na [minha página](https://lauradefaria.github.io)!
+Check out a bit more about me on [my page](https://lauradefaria.github.io)!
 
 <p align="center">
 <a href="https://github.com/lauradefaria">
