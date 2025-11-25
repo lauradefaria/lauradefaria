@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-My name is Laura de Faria, and I am currently studying Computer Engineering at the Federal University of Paraíba. I work as a Backend Developer Trainee at Mercado Eletrônico and am an active member of the Institute of Electrical and Electronics Engineers (IEEE), contributing to the Computer Society (CS) and the Computational Intelligence Society (CIS). I am interested in embedded systems, data science, and software engineering, and I am always eager to discover new things and improve my skills, with a strong enthusiasm for innovation and entrepreneurship.
+My name is Laura de Faria, and I am currently studying Computer Engineering at the Federal University of Paraíba. I work as a Backend Developer Trainee at Mercado Eletrônico and am an active member of the Institute of Electrical and Electronics Engineers (IEEE), contributing to the Computer Society (CS) and the Computational Intelligence Society (CIS). I am interested in data science, software engineering, and data engineering, and I am always eager to discover new things and improve my skills, with a strong enthusiasm for innovation and entrepreneurship.
 
 Check out a bit more about me on [my page](https://lauradefaria.github.io)!
 
